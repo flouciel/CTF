@@ -46,13 +46,14 @@ Okay, Google again. The name of challenge "Jorge Luis Borges", "book", "babel". 
 ![image](https://user-images.githubusercontent.com/45068820/63651785-10eb2580-c783-11e9-843c-9abc3645a85f.png)
 
 hex name: strings from file1
+
 wall : 2
 
 shelf : 3
 
 volume: 4
 
-page 305
+page: 305
 
 
 ![image](https://user-images.githubusercontent.com/45068820/63651787-16e10680-c783-11e9-87d0-f6efdf4b7c97.png)
