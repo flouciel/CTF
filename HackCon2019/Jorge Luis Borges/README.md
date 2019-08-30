@@ -1,4 +1,4 @@
-__[team] n19ghtch41n__
+__[team] n19htch41n__
 
 ![image](https://user-images.githubusercontent.com/45068820/63651668-9c63b700-c781-11e9-9804-ade7f27d7d99.png)
 
